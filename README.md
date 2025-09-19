@@ -1,3 +1,1 @@
-Secara ringkas, proyek-proyek ini adalah program konsol sederhana yang mendemonstrasikan empat operasi fundamental manajemen data: Create, Read, Update, dan Delete (CRUD). 
-Melalui menu interaktif, pengguna dapat menambahkan entri data baru, melihat semua data yang tersimpan, mengubah entri yang sudah ada, dan menghapusnya dari sistem. 
-Program ini dirancang secara fleksibel untuk dapat mengelola beberapa tipe data yang berbeda, di mana setiap tipe memiliki atributnya sendiri yang unik.
+In short, this project is a simple console program that demonstrates the four basic data management operations: Create, Read, Update, and Delete (CRUD). Through interactive menus, users can add new data entries, view all stored data, modify existing entries, and delete them from the system. The program is designed flexibly to manage multiple different data types, each with its own unique attributes.
